@@ -12,4 +12,4 @@ Have sections linked so people can choose specific ones, or the handbook.
 
   * Digital
 
-# [ADHD-handbook](https://jobutton.github.io/ADHD-handbook/)
+# [ADHD in women handbook](https://jobutton.github.io/ADHD-handbook/)
